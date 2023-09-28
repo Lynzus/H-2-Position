@@ -1,0 +1,26 @@
+
+body{
+    margin: 0 0 0 0;
+}
+nav{
+    background-color: #93B5C9;
+    height: 100px;
+    margin-bottom: 0%;
+
+}
+div>section:nth-child(n+2){
+    height: 80px;
+    margin: 20px 150px 0 0px;
+    background-color: #AB2849;
+}
+div>section:nth-child(1){
+    margin-top: 0%;
+    background-color: #93B5C9;
+    height: 200px;
+    background-color: #AB2849;
+}
+footer{
+    height: 60px;
+    background-color: #AB2849;
+    margin: 20px 15px 0 15px;
+}
